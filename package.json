@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.10.0",
+    "js-sha3": "^0.9.3",
+    "merkle-tree-gen": "^1.1.0",
+    "merkle-tree-solidity": "^1.0.8",
+    "merkletreejs": "^0.1.11"
+  }
+}
